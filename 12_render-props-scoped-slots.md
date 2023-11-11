@@ -274,3 +274,13 @@ Next Lesson
 -----------
 
 On our next lesson we’ll be talking with Evan You, the creator of Vue.js, about advanced Vue.js components.
+
+### Lesson Resources
+
+##### Source Code:
+
+*   [The Starting Code](https://codepen.io/GreggPollack/pen/rKwZoW?editors=1000)
+    
+*   [Scoped Slot Solution](https://codepen.io/GreggPollack/pen/PajdvL?editors=1000)
+    
+*   [Render Prop Solution](https://codepen.io/GreggPollack/pen/WyOavv?editors=1000)
